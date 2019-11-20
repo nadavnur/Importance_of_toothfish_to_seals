@@ -1,2 +1,4 @@
-# Importance_of_toothfish_to_seals
+# Importance of toothfish to seals
 Data on Antarctic toothfish and Weddell seals trophic interactions used in the statistical analyses presented in the MS for Antarctic Science. 
+## Details of Data Repository
+Provided here are the variables used in the analysis on which the following paper, in Antarctic Science, is based: “Complementary prevalence indicates dietary importance of Antarctic toothfish to Weddell seals,” authored by D.G. Ainley, P.A. Cziko, N. Nur, J.J. Rotella, J.T. Eastman, M. LaRue, I. Stirling & P.A. Abrams. For access to the raw toothfish data, please contact Art DeVries (adevries@life.uiuc.edu) or Paul Cziko (pcziko@gmail.com); and for the raw seal data, please contact Jay Rotella (rotella@montana.edu). The satellite imagery are available from the Polar Geospatial Center, University of Minnesota (https://www.pgc.umn.edu/data/).
